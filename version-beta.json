@@ -1,24 +1,24 @@
 {
-    "changelog":  "## v0.0.188\n\n- Login fixes",
+    "changelog":  "## v0.0.189\n\n- ",
     "assets":  {
                    "windows_exe":  {
-                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.188-beta/zabb-beta-0.0.188-Setup.exe",
+                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.189-beta/zabb-beta-0.0.189-Setup.exe",
                                        "url":  "https://www.zabb.app/api/download/latest?channel=beta\u0026platform=windows",
-                                       "name":  "zabb-beta-0.0.188-Setup.exe",
-                                       "sha256":  "49ba2fc3f57aba7978466df965a9367505065883d4c1caf95621be7a96270d8a",
-                                       "size":  31719736
+                                       "name":  "zabb-beta-0.0.189-Setup.exe",
+                                       "sha256":  "c4b5d4caa6f2a360523c58e3813e7e6f7e81deebaeffc80357b2f9ee833e7a95",
+                                       "size":  31719602
                                    },
                    "android_apk":  {
-                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.188-beta/zabb-beta-0.0.188.apk",
+                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.189-beta/zabb-beta-0.0.189.apk",
                                        "url":  "https://www.zabb.app/api/download/latest?channel=beta\u0026platform=android",
-                                       "name":  "zabb-beta-0.0.188.apk",
-                                       "sha256":  "b40435e93f2d28b51a92eaad06b5f4ff528c77f11b302629acff844d227f9731",
+                                       "name":  "zabb-beta-0.0.189.apk",
+                                       "sha256":  "ae2ac8e37576cbc839bd8722005597810ffc041eb232ad0727a42afca939b44c",
                                        "size":  130803271
                                    }
                },
-    "minSupported":  "0.0.188",
-    "releaseTag":  "v0.0.188-beta",
+    "minSupported":  "0.0.189",
+    "releaseTag":  "v0.0.189-beta",
     "channel":  "beta",
-    "releaseDate":  "2026-05-20T15:58:33Z",
-    "latest":  "0.0.188"
+    "releaseDate":  "2026-05-20T19:33:31Z",
+    "latest":  "0.0.189"
 }

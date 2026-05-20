@@ -1,24 +1,24 @@
 {
-    "changelog":  "## v0.0.185\n\n- ",
-    "assets":  {
-                   "windows_exe":  {
-                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.185-beta/zabb-beta-0.0.185-Setup.exe",
-                                       "url":  "https://www.zabb.app/api/download/latest?channel=beta\u0026platform=windows",
-                                       "name":  "zabb-beta-0.0.185-Setup.exe",
-                                       "sha256":  "d8a8edcbe2f6a0a0347ef059c1c4bf2d291b14f2c73ffb0c752696c964aa87bf",
-                                       "size":  31716430
-                                   },
-                   "android_apk":  {
-                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.185-beta/zabb-beta-0.0.185.apk",
-                                       "url":  "https://www.zabb.app/api/download/latest?channel=beta\u0026platform=android",
-                                       "name":  "zabb-beta-0.0.185.apk",
-                                       "sha256":  "3015fd8e967c0914041acefc2d6e3e852d43d0184379249b79a94a29678d9db8",
-                                       "size":  130803159
-                                   }
-               },
-    "minSupported":  "0.0.185",
-    "releaseTag":  "v0.0.185-beta",
-    "channel":  "beta",
-    "releaseDate":  "2026-05-20T14:13:10Z",
-    "latest":  "0.0.185"
+  "channel": "beta",
+  "latest": "0.0.186",
+  "changelog": "## v0.0.186\n\n- initial release",
+  "releaseTag": "v0.0.186-beta",
+  "minSupported": "0.0.186",
+  "assets": {
+    "android_apk": {
+      "size": 130803271,
+      "url": "https://www.zabb.app/api/download/latest?channel=beta&platform=android",
+      "sha256": "6dd32a50e8f2e43aae8df99d20b6da871261dc1baf2422497ce2018f716dead5",
+      "originUrl": "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.186-beta/zabb-beta-0.0.186.apk",
+      "name": "zabb-beta-0.0.186.apk"
+    },
+    "windows_exe": {
+      "size": 31719739,
+      "url": "https://www.zabb.app/api/download/latest?channel=beta&platform=windows",
+      "sha256": "8edd592acbd12f204703cabb3a5dd8a142f811383a41cab1e0e56333307d8fc3",
+      "originUrl": "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.186-beta/zabb-beta-0.0.186-Setup.exe",
+      "name": "zabb-beta-0.0.186-Setup.exe"
+    }
+  },
+  "releaseDate": "2026-05-20T15:22:52Z"
 }

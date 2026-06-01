@@ -1,24 +1,24 @@
 {
-    "changelog":  "## v0.0.200\n\n- Chromecast / DLNA integration",
+    "changelog":  "## v0.0.201\n\n- ",
     "assets":  {
                    "windows_exe":  {
-                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.200-beta/zabb-beta-0.0.200-Setup.exe",
+                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.201-beta/zabb-beta-0.0.201-Setup.exe",
                                        "url":  "https://www.zabb.app/api/download/latest?channel=beta\u0026platform=windows",
-                                       "name":  "zabb-beta-0.0.200-Setup.exe",
-                                       "sha256":  "389dce7c646e9a2622c14d454e7c9c3e9a62224d80d55288210aac2d68122855",
-                                       "size":  31874908
+                                       "name":  "zabb-beta-0.0.201-Setup.exe",
+                                       "sha256":  "9f14a0f7bd99f83f5853f6588505f271ce52f183f745b086625325d60fb2b4e1",
+                                       "size":  31878943
                                    },
                    "android_apk":  {
-                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.200-beta/zabb-beta-0.0.200.apk",
+                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.201-beta/zabb-beta-0.0.201.apk",
                                        "url":  "https://www.zabb.app/api/download/latest?channel=beta\u0026platform=android",
-                                       "name":  "zabb-beta-0.0.200.apk",
-                                       "sha256":  "c2ffb609c62880a448fceacb743e7706127f1b553e2c9f0d1328725f84d701d0",
-                                       "size":  132358503
+                                       "name":  "zabb-beta-0.0.201.apk",
+                                       "sha256":  "de45c425484db880bfc724a5e2546c9b7e0b84517624a07ecd5851924cc2a515",
+                                       "size":  132359059
                                    }
                },
-    "minSupported":  "0.0.200",
-    "releaseTag":  "v0.0.200-beta",
+    "minSupported":  "0.0.201",
+    "releaseTag":  "v0.0.201-beta",
     "channel":  "beta",
-    "releaseDate":  "2026-05-30T19:00:17Z",
-    "latest":  "0.0.200"
+    "releaseDate":  "2026-06-01T15:21:12Z",
+    "latest":  "0.0.201"
 }

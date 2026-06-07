@@ -1,24 +1,24 @@
 {
-    "changelog":  "## v0.0.204\n\n- \t",
+    "changelog":  "## v0.0.205\n\n- ",
     "assets":  {
                    "windows_exe":  {
-                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.204-beta/zabb-beta-0.0.204-Setup.exe",
+                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.205-beta/zabb-beta-0.0.205-Setup.exe",
                                        "url":  "https://www.zabb.app/api/download/latest?channel=beta\u0026platform=windows",
-                                       "name":  "zabb-beta-0.0.204-Setup.exe",
-                                       "sha256":  "2fea46c1e3265c3d3ad93cbc9d26ee08c359a2bb2532aed16fcc459d8dca0261",
-                                       "size":  31883580
+                                       "name":  "zabb-beta-0.0.205-Setup.exe",
+                                       "sha256":  "f0c791aeb4bd10f1e792275f480156381956a8f0eefe013c7a48c0bb7e91df18",
+                                       "size":  31884309
                                    },
                    "android_apk":  {
-                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.204-beta/zabb-beta-0.0.204.apk",
+                                       "originUrl":  "https://github.com/PickleMcThunderpants/zabb-beta/releases/download/v0.0.205-beta/zabb-beta-0.0.205.apk",
                                        "url":  "https://www.zabb.app/api/download/latest?channel=beta\u0026platform=android",
-                                       "name":  "zabb-beta-0.0.204.apk",
-                                       "sha256":  "54e2c8fef12da9bdb4c075e27699c94310085c1ca08946c7026ea600fb2b1182",
+                                       "name":  "zabb-beta-0.0.205.apk",
+                                       "sha256":  "9dc80a636a90b9e7bd32d5784f8cf4aea1e8836116428620be414278eb6fbaf7",
                                        "size":  132440635
                                    }
                },
-    "minSupported":  "Auto-play for series and next channel button for live tv",
-    "releaseTag":  "v0.0.204-beta",
+    "minSupported":  "0.0.205",
+    "releaseTag":  "v0.0.205-beta",
     "channel":  "beta",
-    "releaseDate":  "2026-06-07T11:18:43Z",
-    "latest":  "0.0.204"
+    "releaseDate":  "2026-06-07T12:02:37Z",
+    "latest":  "0.0.205"
 }
